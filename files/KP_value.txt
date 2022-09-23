@@ -1,0 +1,2 @@
+Inicio,BolsaCentenarios,FajoBilletes,JoyeroG,JoyeroP,ColeccionE,ObraArte,Pisapapeles
+0,750000,500000,2750000,950000,1850000,3250000,3950000
